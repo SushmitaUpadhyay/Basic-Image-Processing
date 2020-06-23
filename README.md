@@ -1,5 +1,5 @@
 # Basic-Image-Processing
-Following operation have been performed of gray images from scratch
+Following operation have been performed on gray images from scratch
 1. Horizontal Flip
 2. Thresholding
 3. Zoom in (User entered percentage)
